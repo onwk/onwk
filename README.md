@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @onwk
 - 👀 I’m an Computer Engineering student from Thailand
-- 🌱 I’m currently learning Nextjs
+- 🌱 I’m currently learning for something
 - 📫 How to reach me is onwipa24@gmail.com
